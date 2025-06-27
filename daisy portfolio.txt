@@ -1,0 +1,33 @@
+# Daisy Murillo Portfolio Website
+
+A modern, responsive portfolio website built with pure HTML5, CSS3, and JavaScript.
+
+## 🚀 Features
+
+- Pure HTML5, CSS3, JavaScript - No frameworks, just clean code
+- Fully Responsive- Perfect on desktop, tablet, and mobile
+- Page Loader - Smooth loading animation
+- Lazy Loading - Images load only when needed
+- Owl Carousel - Interactive project slider
+- Mobile Menu- Hamburger menu with smooth animations
+- Smooth Scrolling- Seamless navigation between sections
+- Animated Counters- Statistics with counting animation
+- Contact Form - Functional form with validation
+- Cross-browser Compatible- Works on all modern browsers
+
+## 🎨 Design Features
+
+- Dark Theme with Blueviolet accent color
+- Smooth Animations and hover effects
+- Modern Typography using Google Fonts (Poppins)
+- Gradient Backgrounds and visual effects
+- Professional Layout  matching the reference design
+
+## 🛠️ Technologies Used
+
+- HTML5 - Semantic markup
+- CSS3- Modern styling with Flexbox and Grid
+- Vanilla JavaScript- Pure JS for all interactions
+- Owl Carousel - Project slider functionality
+-Font Awesome - Icons
+-Google Fonts- Typography
